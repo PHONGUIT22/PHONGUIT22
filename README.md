@@ -8,7 +8,6 @@
 
 - 🔭 I'm a student at VNUHCM - University of Information Technology (UIT).
 - 🌍 I'm based in Ho Chi Minh City.
-- ✉️  You can contact me at dpphong80@gmail.com
 
 ## Contact me:
   
@@ -26,8 +25,7 @@
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- ✉️  You can contact me at dpphong80@gmail.com
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
