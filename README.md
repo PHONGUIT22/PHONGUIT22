@@ -1,6 +1,5 @@
 # Hi, I'm Nguyen Hac Phong 👋
 
-I'm a student at VNUHCM - University of Information Technology (UIT).
 
 ![Nguyen Hac Phong's Stats](https://github-readme-stats.vercel.app/api?username=PHONGUIT22&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
