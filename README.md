@@ -10,6 +10,8 @@
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,cs,dotnet,sqlserver)](https://skillicons.dev)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+
 
 ## 🌱 Currently Exploring
 
