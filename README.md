@@ -1,9 +1,5 @@
 # Hi, I'm Nguyen Hac Phong 👋
 
-
-
-
-
 ## 🚀 About Me
 
 - 🔭 I'm a student at VNUHCM - University of Information Technology (UIT).
@@ -12,16 +8,12 @@
 ## Contact me:
   
 
-
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,dotnet,sqlserver)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
 - 🚀 Learning ASP.NET CORE
-
-
-
 
 ## 📬 Get in Touch
 
@@ -44,5 +36,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
