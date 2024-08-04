@@ -1,7 +1,7 @@
 # Hi, I'm Nguyen Hac Phong 👋
 
 
-![Nguyen Hac Phong's Stats](https://github-readme-stats.vercel.app/api?username=PHONGUIT22&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 
 
 ## 🚀 About Me
@@ -31,8 +31,8 @@
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
-
-
+## My GitHub Stats
+![Nguyen Hac Phong's Stats](https://github-readme-stats.vercel.app/api?username=PHONGUIT22&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <!--
 
 Here are some ideas to get you started:
