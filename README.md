@@ -9,7 +9,7 @@
   
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,dotnet,sqlserver,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,cs,dotnet,sqlserver,github)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
