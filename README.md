@@ -4,6 +4,17 @@
 
 - 🔭 I'm a student at VNUHCM - University of Information Technology (UIT).
 - 🌍 I'm based in Ho Chi Minh City.
+# Hồ sơ của tôi
+
+!Red Hat Logo
+
+**Địa điểm:** Kerala, India  
+**Múi giờ:** 20:29 -1h30m behind  
+**Email:** hello@gautamkrishnar.com  
+**Website:** [gautamkrishnar.com](https://www.gautamkrishnar.com/)  
+**Twitter:** @gautamkrishnar  
+**Mastodon:** @gkr@fosstodon.org  
+**LinkedIn:** gautamkrishnar
 
   
 ## 🌱 Currently Exploring
