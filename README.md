@@ -12,7 +12,7 @@
 
 ## 📬 Get in Touch
 
-- ✉️  You can contact me at dpphong80@gmail.com
+- ✉️  You can contact me at np79857@gmail.com
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
