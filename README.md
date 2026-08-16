@@ -34,7 +34,7 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PHONGUIT22&show_icons=true&theme=tokyonight&hide_border=true" alt="Nguyen Hac Phong's Stats" height="150" />
+  <img src="https://github-readme-stats.anuraghazra1.workers.dev/api/top-langs/?username=PHONGUIT22&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150" />
   <img src="https://streak-stats.demolab.com?user=PHONGUIT22&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
 </div>
 
