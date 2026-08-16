@@ -1,33 +1,55 @@
-# Hi, I'm Nguyen Hac Phong 👋
+<div align="center">
+  <h1>Hi there, I'm Nguyen Hac Phong 👋</h1>
+  <p>🚀 <strong>Software Engineer & Indie Hacker</strong> | Creator of <a href="https://hexapodsphere.com"><strong>HexaPodSphere</strong></a></p>
+  <p>Building high-performance web systems, programmatic SEO engines, and algorithmic Eastern metaphysics platforms.</p>
+</div>
 
-## 🚀 About Me
+---
 
-- 🔭 I'm a student at VNUHCM - University of Information Technology (UIT).
-- 🌍 I'm based in Ho Chi Minh City
-- My Website: https://hexapodsphere.com/
-  
-## 🌱 Currently Exploring
+### 👨‍💻 About Me
 
-- 🚀 Learning ASP.NET CORE
+- 🎓 **Education:** Information Technology at **VNUHCM - University of Information Technology (UIT)**.
+- 🔮 **Product:** Founder & Lead Developer at **[HexaPodSphere](https://hexapodsphere.com/)** — An algorithmic platform bridging traditional Eastern Metaphysics, Tarot systems & mindful audio experiences.
+- ⚡ **Specialties:** High-scale Programmatic SEO (pSEO), Clean Architecture, Next.js App Router & Full-stack engineering (.NET / TypeScript).
+- 📍 **Location:** Ho Chi Minh City, Vietnam.
 
-## 📬 Get in Touch
+---
 
-- ✉️  You can contact me at dpphong80@gmail.com
+### 🛠 Tech Stack & Tools
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+**Frontend & Frameworks:**  
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-## My GitHub Stats
-![Nguyen Hac Phong's Stats](https://github-readme-stats.vercel.app/api?username=PHONGUIT22&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-<!--
+**Backend & Architecture:**  
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PHONGUIT22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nguyen Hac Phong's Stats" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHONGUIT22&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="155" />
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://hexapodsphere.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-HexaPodSphere-E11D48?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://peerlist.io/np79857" target="_blank">
+    <img src="https://img.shields.io/badge/Peerlist-Profile-00AA45?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist" />
+  </a>
+  <a href="mailto:dpphong80@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dpphong80@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
