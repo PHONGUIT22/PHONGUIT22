@@ -28,7 +28,7 @@
     <td width="50%" valign="top">
       <h4>📄 UK Water Hardness Technical Whitepaper</h4>
       <p>Comprehensive hydrogeological & BS 7593 heating standard report detailing calcium carbonate metrics across DWI supply zones and thermal efficiency impact.</p>
-      <a href="URL_GOOGLE_DOCS_PUBLISH_CUA_DAI_CA" target="_blank">
+      <a href="https://docs.google.com/document/d/1AcuV34zEU8RALatHzYOqepEBq_1kpauNBgDr69eG-p8/" target="_blank">
         <img src="https://img.shields.io/badge/Technical_Paper-Google_Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Google Docs Whitepaper" />
       </a>
     </td>
@@ -71,7 +71,7 @@
   <a href="https://waterhardness.uk" target="_blank">
     <img src="https://img.shields.io/badge/Project-WaterHardness.uk-00BCD4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="WaterHardness" />
   </a>
-  <a href="URL_GOOGLE_DOCS_PUBLISH_CUA_DAI_CA" target="_blank">
+  <a href="https://docs.google.com/document/d/1AcuV34zEU8RALatHzYOqepEBq_1kpauNBgDr69eG-p8/" target="_blank">
     <img src="https://img.shields.io/badge/Whitepaper-Google_Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Whitepaper" />
   </a>
 </p>
