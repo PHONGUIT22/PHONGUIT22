@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Nguyen Hac Phong 👋</h1>
   <p>🚀 <strong>Software Engineer</strong></p>
-  <p>Building high-performance web systems and clean full-stack architectures.</p>
+  <p>Building high-performance web systems, distributed architectures, and programmatic data platforms.</p>
 </div>
 
 ---
@@ -9,8 +9,31 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Education:** Information Technology at **VNUHCM - University of Information Technology (UIT)**.
-- ⚡ **Focus:** Full-stack development (.NET / TypeScript / Python), Clean Architecture, and Next.js.
+- ⚡ **Focus:** Full-stack development (.NET / TypeScript / Python), Clean Architecture, Next.js, and Programmatic SEO.
 - 📍 **Location:** Ho Chi Minh City, Vietnam.
+
+---
+
+### 🔬 Featured Systems & Engineering Research
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 WaterHardness.uk (Live Production)</h4>
+      <p>Hyper-local UK water hardness & limescale risk analysis platform covering 3,000+ postal districts. Built with Next.js 16, React 19, and SSG with 100/100 Core Web Vitals.</p>
+      <a href="https://waterhardness.uk" target="_blank">
+        <img src="https://img.shields.io/badge/Live_System-WaterHardness.uk-00BCD4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live System" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📄 UK Water Hardness Technical Whitepaper</h4>
+      <p>Comprehensive hydrogeological & BS 7593 heating standard report detailing calcium carbonate metrics across DWI supply zones and thermal efficiency impact.</p>
+      <a href="URL_GOOGLE_DOCS_PUBLISH_CUA_DAI_CA" target="_blank">
+        <img src="https://img.shields.io/badge/Technical_Paper-Google_Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Google Docs Whitepaper" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -45,7 +68,10 @@
   <a href="https://peerlist.io/np79857" target="_blank">
     <img src="https://img.shields.io/badge/Peerlist-Profile-00AA45?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist" />
   </a>
-  <a href="mailto:dpphong80@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dpphong80@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="https://waterhardness.uk" target="_blank">
+    <img src="https://img.shields.io/badge/Project-WaterHardness.uk-00BCD4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="WaterHardness" />
+  </a>
+  <a href="URL_GOOGLE_DOCS_PUBLISH_CUA_DAI_CA" target="_blank">
+    <img src="https://img.shields.io/badge/Whitepaper-Google_Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Whitepaper" />
   </a>
 </p>
